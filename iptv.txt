@@ -40,7 +40,7 @@
 
     { "url": "https://iptv.221888.xyz/少儿频道/api.json", "name": "少儿频道" },
 
-    { "url": "https://iptv.221888.xyz/戏曲音乐/api.json", "name": "戏曲音乐" }
+    { "url": "https://iptv.221888.xyz/戏曲音乐/api.json", "name": "戏曲音乐" },
 
     { "url": "https://iptv.221888.xyz/动漫频道/api.json", "name": "动漫频道" },
 
